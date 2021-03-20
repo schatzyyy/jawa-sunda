@@ -47,8 +47,8 @@ Follow The Steps Below!
 > pkg upgrade -y
 > pkg install python -y
 > pkg install git -y
-> git clone https://github.com/Fxc7/termux-bot-wa
-> cd termux-bot-wa
+> git clone https://github.com/schatzyyy/jawa-sunda
+> cd jawa-sunda
 > bash install.sh
 > npm start / node Fxc7.js
 ```
