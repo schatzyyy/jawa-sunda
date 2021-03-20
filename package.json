@@ -56,10 +56,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fxc7/termux-bot-wa.git"
+    "url": "git+https://github.com/schatzyyy/jawa-sunda.git"
   },
   "bugs": {
-    "url": "https://github.com/Fxc7/termux-bot-wa/issues"
+    "url": "https://github.com/schatzyyy/jawa-sunda/issues"
   },
-  "homepage": "https://github.com/Fxc7/termux-bot-wa#readme"
+  "homepage": "https://github.com/schatzyyy/jawa-sunda#readme"
 }
